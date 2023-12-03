@@ -6,7 +6,7 @@ import { HiChatBubbleBottomCenter } from "react-icons/hi2";
 
 const Contact = () => {
   return (
-    <section className="c-wrapper">
+    <section id="contact" className="c-wrapper">
       <div className="paddings innerWidth flexCenter c-container">
         {/* left side */}
         <div className="c-left flexColStart">
